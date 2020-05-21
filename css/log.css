@@ -1,0 +1,32 @@
+body{
+      background:#f9f9f9;
+      font-size:12px;}
+      label{color:#666;}
+  a{
+      color:#336699;
+      text-decoration:none;}
+  a:hover{
+      color:red;}
+  #content{
+      margin-left:auto;
+      margin-right:auto;
+      margin-top:150px;
+      width:300px;
+      border:1px solid #eee;
+      background:#fff;
+      padding:30px;}
+  input.txt{
+      width:230px;
+      padding:8px 5px;
+      border:1px solid #ddd;}
+  input.submit{
+      border:1px solid #ff8800;
+      padding:5px 15px;
+      color:#fff;
+      background:#ff8800;}
+	#input1{
+		float: right;
+	}
+	#input2{
+		float: left;
+	}
